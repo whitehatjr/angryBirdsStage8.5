@@ -1,2 +1,2 @@
-# angryBirdsStage8.5
-Debugging the game
+# AngryBirdsStage3
+Stage 3 Angry Birds: Introducing Constraint
